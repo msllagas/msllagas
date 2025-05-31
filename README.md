@@ -9,7 +9,7 @@
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mandy-llagas-93081624b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandy-llagas-93081624b" height="30" width="40" /></a>
 </p>
@@ -68,7 +68,7 @@
 <p align="left">
   <strong>Backend:</strong><br/>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
   </a>
 </p>
 
@@ -122,6 +122,4 @@
 #
 <h3 align="left">GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=msllagas&" alt="msllagas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msllagas&show_icons=true&locale=en" alt="msllagas" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=msllagas&show_icons=true&locale=en" alt="msllagas" /></p>

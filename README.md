@@ -17,7 +17,7 @@
 > 🚀 I build full-stack web experiences — clean frontends, solid backends, and everything in between.
 
 - 💼 Working as a **Full-Stack Web Developer**
-- 🌐 Check out my work → [msllagas.netlify.app](https://msllagas.netlify.app)
+- 🌐 Check out my work → [mandyllagas.com](https://mandyllagas.com)
 - 💌 Reach me at → [mndyllagas@gmail.com](mailto:mndyllagas@gmail.com)
 
 ---

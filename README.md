@@ -5,7 +5,7 @@
 **Full-Stack Web Developer** · Philippines 🇵🇭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandy-llagas-93081624b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D6D?style=flat-square&logo=netlify&logoColor=white)](https://msllagas.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D6D?style=flat-square&logo=netlify&logoColor=white)](https://mandyllagas.com)
 [![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=white)](mailto:mndyllagas@gmail.com)
 
 </div>

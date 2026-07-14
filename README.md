@@ -2,7 +2,7 @@
 
 # `< M&Y Llagas />`
 
-**Full-Stack Web Developer** · Philippines 🇵🇭
+**Full-Stack Developer** · Philippines 🇵🇭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mandy-llagas-93081624b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4D6D?style=flat-square&logo=netlify&logoColor=white)](https://mandyllagas.com)
@@ -16,9 +16,9 @@
 
 > 🚀 I build full-stack web experiences — clean frontends, solid backends, and everything in between.
 
-- 💼 Working as a **Full-Stack Web Developer**
+- 💼 Working as a **Full-Stack Developer**
 - 🌐 Check out my work → [mandyllagas.com](https://mandyllagas.com)
-- 💌 Reach me at → [mndyllagas@gmail.com](mailto:mndyllagas@gmail.com)
+- 💌 Reach me at → [mndyllagas@gmail.com](mailto:contact@mandyllagas.com)
 
 ---
 
